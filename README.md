@@ -1,2 +1,3 @@
 # Python
-Python repo
+Python repo for git commands demostration
+
